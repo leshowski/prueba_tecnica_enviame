@@ -31,6 +31,10 @@ Ejemplo cuerpo JSON PUT, POST
 ## Ejercicio 3: Análisis + Desarrollo
 ## Ejercicio 4: Consumo API Envíame para la creación de un envío
 ## Ejercicio 5: Análisis + Desarrollo
+
+Chequear archivo:
+> cant_divisores_fibonacci.py
+
 ## Ejercicio 6: Análisis + Desarrollo Aplicado a Negocio
 ## Ejercicio 7: SQL
 
