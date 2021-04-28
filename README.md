@@ -37,5 +37,13 @@ Revisar o ejecutar archivo:
 
 ## Ejercicio 6: Análisis + Desarrollo Aplicado a Negocio
 ## Ejercicio 7: SQL
-
-
+Query
+```
+UPDATE employees e
+   SET e.salary = e.salary + e.salary*(SELECT ct.anual_adjustment/100
+						 	             FROM continents ct,
+						 					  countries c
+										WHERE ct.id = c.continent_id
+						  			  	  AND c.id = e.country_id)
+ WHERE e.salary <= 5000
+```
