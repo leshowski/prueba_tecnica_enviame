@@ -36,6 +36,10 @@ Revisar o ejecutar archivo:
 > cant_divisores_fibonacci.py
 
 ## Ejercicio 6: Análisis + Desarrollo Aplicado a Negocio
+
+Revisar o ejecutar archivo:
+> cant_dias_entrega.py
+
 ## Ejercicio 7: SQL
 Query
 ```
